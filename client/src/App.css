@@ -1,0 +1,19 @@
+.error-text {
+  color: red;
+}
+.purple-text {
+  color: purple;
+}
+button {
+  background-color: skyblue;
+}
+.submit {
+  margin-left: 10px;
+}
+.table-img {
+  height: 50px;
+  width: 50px;
+}
+.btn-danger {
+  margin-left: 20px;
+}
